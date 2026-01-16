@@ -71,7 +71,7 @@ Nosso fluxo de trabalho é desenhado para ser transparente e eficiente:
   <h3>Vamos construir algo incrível juntos?</h3>
   <p>Está pronto para levar seu negócio para o próximo nível digital?</p>
   
-  <a href="mailto:contato@starcode.com.br">
+  <a href="mailto:starcode.dev335@gmail.com">
     <img src="https://img.shields.io/badge/Solicite%20um%20Orçamento-000000?style=for-the-badge&logo=mail.ru&logoColor=white" alt="Solicite um orçamento" />
   </a>
   <br><br>
