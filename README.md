@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://starcode335.github.io/homepage-starcode/ASSETS/logo.png" width="120" alt="StarCode Logo" />
+  
 
   # StarCode
   
